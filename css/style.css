@@ -95,4 +95,17 @@ a {
     margin-right: 5%;
     padding: 40px;
     box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+
+#full-stack {
+    border-left: 7px solid tomato;
+}
+
+#fond-end {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
 }
