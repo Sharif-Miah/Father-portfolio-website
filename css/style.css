@@ -169,15 +169,18 @@ footer p {
         margin-top: 40px;
     }
 
+    .drem-bg {
+        display: flex;
+        flex-direction: column;
+    }
+
     .drem-img {
-        width: 100%;
+        width: 40%;
 
     }
 
-    .drem-bg {
-        background-image: none;
-        background-repeat: no-repeat;
-        background-position: right;
+    .dremSection {
+        margin-top: 20px;
     }
 
 }
